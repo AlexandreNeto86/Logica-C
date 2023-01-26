@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674226261 source:c:\workspace - block\lógica c\problema negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+
